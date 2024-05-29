@@ -4,4 +4,4 @@ WORKDIR /usr/src/app
 
 ADD . /usr/src/app
 
-CMD ["python", "hello.py"]
+CMD ["python", "api.py"]
